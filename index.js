@@ -1,3 +1,5 @@
+// Have a separate js file for MongoClient/operations on MongoDB. The login and sign up function doesn't work. Will recieve 404 crash message when process.
+
 const { MongoClient, Collection, ObjectId } = require("mongodb");
 const bodyParser = require("body-parser");
 const cors = require("cors");
