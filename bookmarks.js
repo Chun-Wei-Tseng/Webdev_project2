@@ -1,3 +1,4 @@
+// Consider put all frontend JavaScript, CSS, and HTML in a public folder.
 let locationArray = [
   {
     title: "California Highway Nine",
